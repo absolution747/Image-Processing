@@ -1,2 +1,2 @@
-# Image-Processing
-Standard image and video transformation using OpenCV; References https://opencv-python-tutroals.readthedocs.io/
+# Neural Networks
+A neural network made in python using libraries like Numpy, Pandas, and Matploylib only
